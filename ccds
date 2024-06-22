@@ -1,0 +1,12 @@
+var and let const me keya farak hai 
+isme 3 fark hai 
+1 var a = 12;
+var js es5 ka part  hai 1 or 2 ye  function scope hai ye 3 khud ko window pe add karta hai 3
+or ye pure function me kahi pe bhi use ho sakata hai 
+2 let b = 30;
+3 const c 40;
+let and const js es6 ka part hai / let and const js es6 ka upgrade visorion hai 2 or ye khud ko window pe add nhi karta hai 
+3 ye breses scope hai ye breses ke under hi use ho sakta hai 
+
+sencronis code   line by line chalta hai or ye main stack main chalta hai 
+asencronis code ek bar me pura code pura chalta hai asencronic code side stack pe chalata hai 
